@@ -41,30 +41,59 @@ const flashcardCategories = {
                 "avec les équipes techniques et à m'impliquer davantage dans la <strong>coordination</strong> et la <strong>prise d'initiatives</strong>."
     },
     {
-        question: "🎯 Pourquoi ce poste ?",
-        answer: "Ce poste correspond exactement à ce que je recherche : il combine <strong>analyse des besoins clients</strong>, <strong>accompagnement dans la transformation digitale</strong> et <strong>implication sur des projets concrets</strong>. Exactement ce que j'ai expérimenté lors de la création de ma plateforme e-commerce.\n\n" +
-                
+        question: "🎯 Pourquoi le consulting ?",
+        answer: "👉 Le consulting, c'est la possibilité d'<strong>apprendre en permanence</strong>, de <strong>changer de secteur</strong>, de <strong>relever des défis différents</strong> tout en gardant un fil conducteur : <strong>accompagner les clients dans leurs transformations</strong>. Ce qui m'attire, c'est cette <strong>variété de missions</strong> et le fait d'avoir un <strong>réel impact</strong>."
+    },
+    {
+        question: "🎯 Pourquoi le rôle de consultant AMOA chez MC2I ?",
+        answer: "👉 Parce que le rôle de <strong>consultant AMOA</strong> me permet d'être au <strong>cœur de la relation client</strong>, de <strong>comprendre les besoins</strong>, de <strong>cadrer les projets</strong> et d'<strong>accompagner le changement</strong>. C'est exactement ce que j'aime : <strong>mêler écoute, analyse et pilotage de projets</strong>. Avec <strong>MC2I</strong>, j'aurai la chance de travailler sur des <strong>projets variés et stratégiques</strong>, dans des <strong>secteurs qui ont un vrai impact</strong>.\n\n" +
+                "Exactement ce que j'ai expérimenté lors de la création de ma <strong>plateforme e-commerce</strong>.\n\n" +
                 "J'ai géré le projet de bout en bout : de la <strong>conception du site</strong> à l'<strong>acquisition client</strong>, la <strong>publicité</strong> et la <strong>relation client</strong>. Cette expérience m'a permis de comprendre l'importance d'<strong>analyser les besoins</strong>, de <strong>proposer des solutions adaptées</strong> et de <strong>suivre leur mise en œuvre</strong>.\n\n" +
-                
-                "Je suis capable de comprendre à la fois les <strong>aspects techniques et fonctionnels</strong>. Rejoindre MC2I me permettrait d'<strong>appliquer ces compétences</strong> pour accompagner les clients dans leurs projets de <strong>transformation numérique</strong>, tout en travaillant sur des <strong>missions concrètes et variées</strong>."
+                "Aujourd'hui, je souhaite mettre à profit mon <strong>bagage technique</strong> et mes <strong>expériences</strong> dans un rôle où je pourrai accompagner les clients dans la <strong>définition de leurs besoins</strong> et la <strong>réussite de leurs projets</strong>. C'est exactement ce que propose MC2I."
     },
     {
-        question: "🏢 MC2I - Présentation",
-        answer: "<strong>MC2I</strong> est un <strong>cabinet de conseil indépendant</strong> spécialisé dans la <strong>transformation digitale</strong> et le <strong>management</strong>. Ils accompagnent de <strong>grandes entreprises</strong> et <strong>institutions publiques</strong> dans leurs projets de transformation numérique, en combinant <strong>expertise technique</strong>, <strong>stratégie</strong> et <strong>accompagnement des équipes</strong>.\n\n" +
-                "Le cabinet est reconnu pour sa <strong>culture centrée sur l'humain</strong>, l'<strong>innovation</strong> et le <strong>développement professionnel</strong> de ses consultants."
+        question: "🔍 Différence AMOA et AMOE ?",
+        answer: "👉 <strong>AMOA (Assistance à Maîtrise d'Ouvrage)</strong> :\n\n" +
+                "• <strong>Rôle</strong> : Représente les utilisateurs finaux et les métiers\n" +
+                "• <strong>Missions</strong> : Définir les besoins, valider les solutions, accompagner le changement\n" +
+                "• <strong>Focus</strong> : Aspect fonctionnel et organisationnel\n" +
+                "• <strong>Position</strong> : Côté client, interface entre métier et technique\n\n" +
+                "👉 <strong>AMOE (Assistance à Maîtrise d'Œuvre)</strong> :\n\n" +
+                "• <strong>Rôle</strong> : Représente l'équipe technique de réalisation\n" +
+                "• <strong>Missions</strong> : Concevoir, développer, tester les solutions techniques\n" +
+                "• <strong>Focus</strong> : Aspect technique et méthodologique\n" +
+                "• <strong>Position</strong> : Côté prestataire, responsable de la réalisation\n\n" +
+                "En résumé : <strong>AMOA = besoins métier</strong> vs <strong>AMOE = solutions techniques</strong>"
     },
     {
-        question: "📋 En quoi consiste ce poste",
-        answer: "Ce poste consiste à participer aux <strong>projets de transformation digitale</strong> et d'<strong>amélioration des systèmes d'information</strong> des clients de MC2I.\n\n" +
-                "Il s'agit de contribuer à l'<strong>analyse des besoins métier</strong>, à la <strong>conception de solutions techniques</strong>, et à la <strong>mise en œuvre de projets IT</strong>.\n\n" +
-                "Le rôle inclut également un aspect de <strong>conseil et d'accompagnement</strong> auprès des équipes clients, afin de garantir que les <strong>solutions proposées</strong> répondent parfaitement à leurs attentes et contraintes.\n\n" +
-                "En résumé, ce poste vise à <strong>accompagner les clients</strong> dans leur transformation digitale, à <strong>développer des solutions innovantes</strong> et à contribuer à la <strong>performance de leurs systèmes d'information</strong>."
+        question: "🎯 Compréhension du poste chez MC2I",
+        answer: "Le rôle proposé chez <strong>MC2I</strong> nécessite une <strong>combinaison de compétences analytiques et techniques</strong> pour aider les clients à naviguer leur <strong>transformation digitale</strong>. En tant que <strong>consultant</strong>, je serais amené à <strong>analyser et concevoir des solutions</strong> qui répondent aux <strong>défis uniques de chaque client</strong>, tout en travaillant en <strong>étroite collaboration avec des équipes multidisciplinaires</strong>.\n\n" +
+                "Ce poste utilise pleinement mes <strong>compétences en gestion de projet</strong> et en <strong>analyse de systèmes</strong>, tout en me permettant de <strong>développer des solutions innovantes</strong> qui répondent aux <strong>exigences complexes des projets chez MC2I</strong>."
     },
     {
-        question: "🏢 Pourquoi MC2I ?",
-        answer: "MC2I m'attire pour son <strong>expertise reconnue en transformation digitale</strong>, mais aussi pour sa <strong>culture d'entreprise</strong>. C'est un cabinet où il fait bon travailler, classé <strong>3ᵉ au palmarès Great Place to Work 2025</strong> et <strong>1ᵉʳ au Happy Trainees 2025</strong>, avec un <strong>management de proximité</strong> et des <strong>parcours professionnels flexibles</strong>.\n\n" +
-                "J'apprécie aussi leur engagement pour la <strong>diversité</strong>, l'<strong>inclusion</strong> et le <strong>développement durable</strong>. Pour moi, c'est un environnement où je peux contribuer à des <strong>projets ambitieux</strong> tout en continuant à <strong>apprendre et à évoluer</strong>."
+        question: "🎯 Qu'est-ce que je peux apporter au poste ?",
+        answer: "Je peux apporter à ce poste ma <strong>double compétence technique et fonctionnelle</strong>, ma <strong>capacité à piloter des projets</strong> et à <strong>coordonner des équipes</strong>, ainsi qu'une <strong>vraie sensibilité aux besoins des utilisateurs</strong>. Mes <strong>expériences variées</strong> m'ont aussi appris à <strong>m'adapter rapidement à différents secteurs</strong> et à <strong>proposer des solutions efficaces et innovantes</strong>."
+    }
+],
+    "🏢 MC2I": [
+    {
+        question: "🏢 C'est quoi MC2I ?",
+        answer: "👉 <strong>MC2I</strong> est un <strong>cabinet de conseil indépendant</strong>, spécialisé dans la <strong>transformation digitale</strong> et le <strong>management</strong>, fondé en <strong>1989</strong>. Il accompagne aussi bien des <strong>grandes entreprises</strong> que des <strong>administrations publiques</strong>, dans des secteurs variés comme la <strong>banque</strong>, la <strong>santé</strong>, le <strong>transport</strong>, l'<strong>énergie</strong> et les <strong>RH</strong>. Leur slogan est <strong>\"Human first, digital explorer\"</strong>, ce qui reflète leur double orientation : <strong>mettre l'humain au centre</strong> tout en <strong>explorant l'innovation technologique</strong>."
     },
+    {
+        question: "🏢 Pourquoi MC2I plutôt qu'un autre cabinet ?",
+        answer: "Ce qui m'attire chez <strong>MC2I</strong>, c'est vraiment sa <strong>culture et son approche humaine</strong>. Le cabinet est reconnu pour son <strong>excellence</strong> : <strong>3ᵉ au palmarès Great Place to Work 2025</strong> et <strong>1ᵉʳ au palmarès Happy Trainees 2025</strong> (pour te rappeler, ça montre que c'est un <strong>super endroit où travailler et se former</strong>).\n\n" +
+                "Le <strong>management est très proche des équipes</strong>, avec environ <strong>1 manager pour 5 consultants</strong>, et chaque consultant est <strong>accompagné pour construire sa carrière</strong>, profiter des <strong>formations</strong> et participer aux <strong>centres d'expertise</strong>.\n\n" +
+                "En plus, <strong>MC2I encourage le bénévolat</strong> auprès d'associations pendant les <strong>intercontrats</strong>, ce qui reflète ses <strong>valeurs humaines</strong> et l'importance donnée à l'<strong>impact positif</strong>.\n\n" +
+                "C'est ce <strong>mélange d'excellence professionnelle et de valeurs humaines</strong> qui me correspond parfaitement."
+    },
+    {
+        question: "🎯 Enjeux MC2I",
+        answer: "Les enjeux pour <strong>MC2I</strong> sont d'<strong>accompagner les clients dans leur transformation digitale</strong> tout en s'assurant que les <strong>solutions mises en place répondent aux besoins réels des utilisateurs</strong>. Cela inclut la <strong>gestion de projet</strong>, la <strong>coordination entre équipes fonctionnelles et techniques</strong>, et l'<strong>accompagnement du changement</strong> pour que les utilisateurs adoptent efficacement les nouveaux outils.\n\n" +
+                "Chez <strong>MC2I</strong>, on travaille avec différents types de clients selon les secteurs : <strong>institutions publiques</strong>, <strong>banques</strong>, <strong>assurances</strong>, <strong>santé</strong>, <strong>énergie</strong>, <strong>transport</strong>… Et en interne, le <strong>consultant AMOA</strong> collabore étroitement avec les <strong>équipes AMOE</strong>, les <strong>chefs de projet</strong>, les <strong>responsables métier</strong> et les <strong>utilisateurs finaux</strong> pour garantir le succès des projets."
+    }
+],
+    "🏥 Secteurs d'Intérêt": [
     {
         question: "🏥 Pourquoi le domaine de la santé ?",
         answer: "Mon expérience au <strong>Laos</strong>, où j'ai travaillé comme professeur bénévole dans des villages ruraux, m'a appris que le fait d'<strong>aider les gens</strong> fait véritablement partie de moi. Cela m'a sensibilisé à la <strong>dimension humaine</strong> et à l'importance d'<strong>améliorer les services</strong> pour les communautés."
@@ -77,7 +106,7 @@ const flashcardCategories = {
         question: "🏦 Pourquoi le domaine de la banque ?",
         answer: "Ayant effectué <strong>trois années d'apprentissage chez BNP Paribas</strong>, j'ai déjà une <strong>expérience concrète dans le secteur bancaire</strong>. J'ai travaillé sur le <strong>développement d'outils internes</strong> et l'<strong>automatisation de processus</strong>, ce qui m'a permis de comprendre les besoins des institutions financières et l'importance de la <strong>sécurité</strong>, de l'<strong>efficacité</strong> et de la <strong>conformité</strong>."
     }
-    ],
+],
     "💪 Compétences & Qualités": [
     {
         question: "💪 Forces / Faiblesses",
@@ -253,30 +282,59 @@ const flashcardCategoriesEN = {
                 "with technical teams and to get more involved in <strong>coordination</strong> and <strong>taking initiative</strong>."
     },
     {
-        question: "🎯 Pourquoi ce poste ?",
-        answer: "This position corresponds exactly to what I'm looking for: it combines <strong>client needs analysis</strong>, <strong>support in digital transformation</strong> and <strong>involvement in concrete projects</strong>. Exactly what I experienced when creating my e-commerce platform.\n\n" +
-                
+        question: "🎯 Why consulting?",
+        answer: "👉 Consulting offers the possibility to <strong>learn continuously</strong>, to <strong>change sectors</strong>, to <strong>tackle different challenges</strong> while maintaining a common thread: <strong>supporting clients in their transformations</strong>. What attracts me is this <strong>variety of missions</strong> and the fact of having a <strong>real impact</strong>."
+    },
+    {
+        question: "🎯 Why the AMOA consultant role at MC2I?",
+        answer: "👉 Because the <strong>AMOA consultant</strong> role allows me to be at the <strong>heart of client relations</strong>, to <strong>understand needs</strong>, to <strong>frame projects</strong> and to <strong>support change</strong>. This is exactly what I like: <strong>combining listening, analysis and project management</strong>. With <strong>MC2I</strong>, I will have the chance to work on <strong>varied and strategic projects</strong>, in <strong>sectors that have real impact</strong>.\n\n" +
+                "Exactly what I experienced when creating my <strong>e-commerce platform</strong>.\n\n" +
                 "I managed the project from start to finish: from <strong>site design</strong> to <strong>customer acquisition</strong>, <strong>advertising</strong> and <strong>customer relations</strong>. This experience taught me the importance of <strong>analyzing needs</strong>, <strong>proposing adapted solutions</strong> and <strong>following their implementation</strong>.\n\n" +
-                
-                "I can understand both <strong>technical and functional aspects</strong>. Joining MC2I would allow me to <strong>apply these skills</strong> to support clients in their <strong>digital transformation projects</strong>, while working on <strong>concrete and varied missions</strong>."
+                "Today, I want to leverage my <strong>technical background</strong> and <strong>experiences</strong> in a role where I can support clients in <strong>defining their needs</strong> and <strong>ensuring the success of their projects</strong>. This is exactly what MC2I offers."
     },
     {
-        question: "🏢 MC2I - Présentation",
-        answer: "<strong>MC2I</strong> is an <strong>independent consulting firm</strong> specialized in <strong>digital transformation</strong> and <strong>management</strong>. They support <strong>large companies</strong> and <strong>public institutions</strong> in their digital transformation projects, combining <strong>technical expertise</strong>, <strong>strategy</strong> and <strong>team support</strong>.\n\n" +
-                "The firm is recognized for its <strong>human-centered culture</strong>, <strong>innovation</strong> and <strong>professional development</strong> of its consultants."
+        question: "🔍 Difference between AMOA and AMOE?",
+        answer: "👉 <strong>AMOA (Assistance à Maîtrise d'Ouvrage)</strong> :\n\n" +
+                "• <strong>Role</strong> : Represents end users and business functions\n" +
+                "• <strong>Missions</strong> : Define needs, validate solutions, support change\n" +
+                "• <strong>Focus</strong> : Functional and organizational aspect\n" +
+                "• <strong>Position</strong> : Client side, interface between business and technical\n\n" +
+                "👉 <strong>AMOE (Assistance à Maîtrise d'Œuvre)</strong> :\n\n" +
+                "• <strong>Role</strong> : Represents the technical implementation team\n" +
+                "• <strong>Missions</strong> : Design, develop, test technical solutions\n" +
+                "• <strong>Focus</strong> : Technical and methodological aspect\n" +
+                "• <strong>Position</strong> : Service provider side, responsible for implementation\n\n" +
+                "In summary: <strong>AMOA = business needs</strong> vs <strong>AMOE = technical solutions</strong>"
     },
     {
-        question: "📋 En quoi consiste ce poste",
-        answer: "This position involves participating in <strong>digital transformation projects</strong> and <strong>information systems improvement</strong> for MC2I clients.\n\n" +
-                "It involves contributing to <strong>business needs analysis</strong>, <strong>technical solution design</strong>, and <strong>IT project implementation</strong>.\n\n" +
-                "The role also includes an aspect of <strong>consulting and support</strong> with client teams, to ensure that <strong>proposed solutions</strong> perfectly meet their expectations and constraints.\n\n" +
-                "In summary, this position aims to <strong>support clients</strong> in their digital transformation, to <strong>develop innovative solutions</strong> and to contribute to the <strong>performance of their information systems</strong>."
+        question: "🎯 Understanding the role at MC2I",
+        answer: "The role proposed at <strong>MC2I</strong> requires a <strong>combination of analytical and technical skills</strong> to help clients navigate their <strong>digital transformation</strong>. As a <strong>consultant</strong>, I would be called upon to <strong>analyze and design solutions</strong> that address the <strong>unique challenges of each client</strong>, while working in <strong>close collaboration with multidisciplinary teams</strong>.\n\n" +
+                "This position fully utilizes my <strong>project management skills</strong> and <strong>systems analysis</strong>, while allowing me to <strong>develop innovative solutions</strong> that meet the <strong>complex requirements of projects at MC2I</strong>."
     },
     {
-        question: "🏢 Pourquoi MC2I ?",
-        answer: "MC2I attracts me for its <strong>recognized expertise in digital transformation</strong>, but also for its <strong>company culture</strong>. It's a firm where it's good to work, ranked <strong>3rd in the Great Place to Work 2025 ranking</strong> and <strong>1st in Happy Trainees 2025</strong>, with <strong>proximity management</strong> and <strong>flexible professional paths</strong>.\n\n" +
-                "I also appreciate their commitment to <strong>diversity</strong>, <strong>inclusion</strong> and <strong>sustainable development</strong>. For me, it's an environment where I can contribute to <strong>ambitious projects</strong> while continuing to <strong>learn and evolve</strong>."
+        question: "🎯 What can I bring to the position?",
+        answer: "I can bring to this position my <strong>dual technical and functional expertise</strong>, my <strong>ability to manage projects</strong> and <strong>coordinate teams</strong>, as well as a <strong>genuine sensitivity to user needs</strong>. My <strong>varied experiences</strong> have also taught me to <strong>adapt quickly to different sectors</strong> and to <strong>propose effective and innovative solutions</strong>."
+    }
+],
+    "🏢 MC2I": [
+    {
+        question: "🏢 What is MC2I?",
+        answer: "👉 <strong>MC2I</strong> is an <strong>independent consulting firm</strong>, specialized in <strong>digital transformation</strong> and <strong>management</strong>, founded in <strong>1989</strong>. It supports both <strong>large companies</strong> and <strong>public administrations</strong>, in various sectors such as <strong>banking</strong>, <strong>healthcare</strong>, <strong>transport</strong>, <strong>energy</strong> and <strong>HR</strong>. Their slogan is <strong>\"Human first, digital explorer\"</strong>, which reflects their dual orientation: <strong>putting people at the center</strong> while <strong>exploring technological innovation</strong>."
     },
+    {
+        question: "🏢 Why MC2I rather than another firm?",
+        answer: "What attracts me to <strong>MC2I</strong> is really its <strong>culture and human approach</strong>. The firm is recognized for its <strong>excellence</strong>: <strong>3rd in the Great Place to Work 2025 ranking</strong> and <strong>1st in the Happy Trainees 2025 ranking</strong> (to remind you, this shows it's a <strong>great place to work and train</strong>).\n\n" +
+                "The <strong>management is very close to teams</strong>, with about <strong>1 manager for 5 consultants</strong>, and each consultant is <strong>supported to build their career</strong>, benefit from <strong>training</strong> and participate in <strong>expertise centers</strong>.\n\n" +
+                "In addition, <strong>MC2I encourages volunteering</strong> with associations during <strong>inter-contracts</strong>, which reflects its <strong>human values</strong> and the importance given to <strong>positive impact</strong>.\n\n" +
+                "It's this <strong>blend of professional excellence and human values</strong> that perfectly matches me."
+    },
+    {
+        question: "🎯 MC2I Challenges",
+        answer: "The challenges for <strong>MC2I</strong> are to <strong>support clients in their digital transformation</strong> while ensuring that <strong>implemented solutions meet the real needs of users</strong>. This includes <strong>project management</strong>, <strong>coordination between functional and technical teams</strong>, and <strong>change management</strong> so that users effectively adopt new tools.\n\n" +
+                "At <strong>MC2I</strong>, we work with different types of clients across sectors: <strong>public institutions</strong>, <strong>banks</strong>, <strong>insurance companies</strong>, <strong>healthcare</strong>, <strong>energy</strong>, <strong>transport</strong>… And internally, the <strong>AMOA consultant</strong> works closely with <strong>AMOE teams</strong>, <strong>project managers</strong>, <strong>business stakeholders</strong> and <strong>end users</strong> to ensure project success."
+    }
+],
+    "🏥 Secteurs d'Intérêt": [
     {
         question: "🏥 Pourquoi le domaine de la santé ?",
         answer: "My experience in <strong>Laos</strong>, where I worked as a volunteer teacher in rural villages, taught me that <strong>helping people</strong> is truly part of me. This sensitized me to the <strong>human dimension</strong> and the importance of <strong>improving services</strong> for communities."
@@ -289,7 +347,7 @@ const flashcardCategoriesEN = {
         question: "🏦 Pourquoi le domaine de la banque ?",
         answer: "Having completed <strong>three years of apprenticeship at BNP Paribas</strong>, I already have <strong>concrete experience in the banking sector</strong>. I worked on <strong>internal tool development</strong> and <strong>process automation</strong>, which allowed me to understand the needs of financial institutions and the importance of <strong>security</strong>, <strong>efficiency</strong> and <strong>compliance</strong>."
     }
-    ],
+],
     "💪 Compétences & Qualités": [
     {
         question: "💪 Forces / Faiblesses",
