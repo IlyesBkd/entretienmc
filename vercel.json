@@ -2,6 +2,20 @@
   "version": 2,
   "routes": [
     {
+      "src": "/styles.css",
+      "dest": "/styles.css",
+      "headers": {
+        "Content-Type": "text/css"
+      }
+    },
+    {
+      "src": "/script.js",
+      "dest": "/script.js",
+      "headers": {
+        "Content-Type": "application/javascript"
+      }
+    },
+    {
       "src": "/(.*)",
       "dest": "/index.html"
     }
