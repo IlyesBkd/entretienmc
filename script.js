@@ -12,9 +12,9 @@ const flashcardCategories = {
                 
                 "En troisième année, j'ai également effectué un semestre en <strong>Malaisie à Heriot-Watt University</strong> où j'ai étudié le <strong>leadership</strong> et la <strong>conduite du changement</strong>.\n\n" +
                 
-                "Enfin, j'ai récemment passé <strong>5 mois au Laos</strong> comme professeur d'anglais bénévole dans des villages ruraux. C'était une aventure humaine très forte qui m'a beaucoup appris sur l'<strong>écoute</strong>, la <strong>patience</strong> et l'<strong>adaptabilité</strong>.\n\n" +
+                "Enfin, j'ai récemment passé <strong>5 mois au Laos</strong> comme professeur d'anglais bénévole dans des villages ruraux. C'était une aventure humaine très forte qui m'a beaucoup appris sur l'<strong>écoute</strong>, la <strong>patience</strong> et l'<strong>adaptabilité</strong>. Et c'est à travers cette expérience que j'ai pris conscience que j'aimais vraiment <strong>contribuer à améliorer la vie des gens</strong>, ce qui m'a naturellement orienté vers le <strong>domaine de la santé</strong>.\n\n" +
                 
-                "Aujourd'hui, je souhaite mettre à profit mon <strong>bagage technique</strong> et mes <strong>expériences</strong> dans un rôle mêlant <strong>innovation</strong> et <strong>accompagnement client</strong>, ce qui correspond parfaitement à <strong>MC2I</strong>."
+                "Aujourd'hui, je souhaite mettre à profit mon <strong>bagage technique</strong> et mes <strong>expériences</strong> dans un rôle où je pourrai accompagner les clients dans la <strong>définition de leurs besoins</strong> et la <strong>réussite de leurs projets</strong>. C'est exactement ce que propose <strong>MC2I</strong>."
     },
     {
         question: "🇲🇾 Études Malaisie - Leadership",
@@ -253,9 +253,9 @@ const flashcardCategoriesEN = {
                 
                 "In my third year, I also spent a semester in <strong>Malaysia at Heriot-Watt University</strong> where I studied <strong>leadership</strong> and <strong>change management</strong>.\n\n" +
                 
-                "Finally, I recently spent <strong>5 months in Laos</strong> as a volunteer English teacher in rural villages. It was a very meaningful human experience that taught me a lot about <strong>listening</strong>, <strong>patience</strong> and <strong>adaptability</strong>.\n\n" +
+                "Finally, I recently spent <strong>5 months in Laos</strong> as a volunteer English teacher in rural villages. It was a very meaningful human experience that taught me a lot about <strong>listening</strong>, <strong>patience</strong> and <strong>adaptability</strong>. And it was through this experience that I realized I truly enjoyed <strong>contributing to improving people's lives</strong>, which naturally oriented me towards the <strong>healthcare sector</strong>.\n\n" +
                 
-                "Today, I want to leverage my <strong>technical background</strong> and my <strong>experiences</strong> in a role combining <strong>innovation</strong> and <strong>client support</strong>, which perfectly matches <strong>MC2I</strong>."
+                "Today, I want to leverage my <strong>technical background</strong> and my <strong>experiences</strong> in a role where I can support clients in <strong>defining their needs</strong> and <strong>ensuring the success of their projects</strong>. This is exactly what <strong>MC2I</strong> offers."
     },
     {
         question: "🇲🇾 Études Malaisie - Leadership",
